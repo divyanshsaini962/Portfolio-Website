@@ -1,4 +1,3 @@
-// useIntersectionObserver.js
 import { useEffect, useState, useRef } from "react";
 
 export function useIntersectionObserver() {
@@ -6,7 +5,7 @@ export function useIntersectionObserver() {
   const ref = useRef(null);
 
   useEffect(() => {
-    const currentRef = ref.current;
+    const currentRef = ref.current; // Store ref in local variable
     const options = {
       root: null,
       rootMargin: "0px",
@@ -23,7 +22,7 @@ export function useIntersectionObserver() {
 
     return () => {
       if (currentRef) {
-        observer.unobserve(currentRef);
+        observer.unobserve(currentRef); // Use stored reference
       }
     };
   }, []);
