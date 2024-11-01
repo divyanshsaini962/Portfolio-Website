@@ -8,16 +8,16 @@ import FixedButon from "@/components/FixedButton";
 import { faChevronLeft } from "@fortawesome/free-solid-svg-icons";
 const projects = [
 	{
-		year: "2024",
-		title: "Generative Trivia",
-		tech: "NextJS, Gemini AI, TailwindCSS, ShadcnUI, Firebase",
-		github: "https://github.com/Alvalens/generative-trivia",
-		preview: "https://generative-trivia.vercel.app/",
+		year: "2023",
+		title: "Full Stack Website",
+		tech: "NextJS, Gemini AI, TailwindCSS, Figma UI, Next Auth",
+		github: "https://github.com/divyanshsaini962/techblogg",
+		preview: "https://www.techblogservice.online/",
 	},
 	{
 		year: "2024",
-		title: "Saku Senyum",
-		tech: "NextJS, TypeScript, TailwindCSS, ShadcnUI, Prisma, MySQL",
+		title: "WordPress Website",
+		tech: "WordPress, Figma Ui, Custom Css,",
 	},
 	{
 		year: "2023",

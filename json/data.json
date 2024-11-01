@@ -1,56 +1,48 @@
 {
   "Projects": [
     {
-      "title": "Generative Trivia",
+      "title": "Full Stack Website",
       "desc": [
-        "A generative trivia website built with Next.js, Firebase, NextAuth, Google OAuth, and TypeScript. Users can generate trivia questions for predefined school subjects and answer them with a unique interactive input style. The application supports user authentication with Google and stores data in Firestore.",
-        "The project is a culmination of my passion for web development and my desire to create a fun and interactive learning platform. The website is designed to be user-friendly and engaging, with a clean and modern interface that appeals to a wide audience. The trivia questions are generated using the Gemini API, which provides a diverse range of questions for users to answer."
+        "Developed a full stack blog website using the MERN stack (MongoDB, Express, React, Node.js), with a focus on performance, scalability, and user engagement. Implemented a dynamic content management system with CRUD functionality for blog posts,",
+        "User authentication, and role-based access. Integrated a responsive front-end using React and Redux for state management, while the back-end API in Node.js and Express handles data processing and security. Optimized the MongoDB database for efficient data retrieval and used JWT for secure authentication."
       ],
       "year": "2023",
-      "preview": "https://generative-trivia.vercel.app/",
-      "code": "https://github.com/Alvalens/generative-trivia",
+      "preview": "https://www.techblogservice.online/",
+      "code": "https://github.com/divyanshsaini962/techblogg",
       "images": [
-        "/projects/trivia/trivia1.png",
-        "/projects/trivia/trivia2.png",
-        "/projects/trivia/trivia3.png"
+        "/projects/tech/Home.png",
+        "/projects/tech/Blog.png",
+        "/projects/tech/page.png"
       ],
-      "tech": [
-        "NextJS",
-        "Shadcn UI",
-        "Tailwind CSS",
-        "Firebase",
-        "Gemini API"
-      ], 
-      "slug": "trivia"
+      "tech": ["NextJS", "Figma UI", "Tailwind CSS", "Next Auth", "Gemini API"],
+      "slug": "tech"
     },
     {
-      "title": "Saku Senyum",
+      "title": "Wordpress Website",
       "desc": [
-        "Saku Senyum is a website that I created as a Fullstack Developer in PT Hafdzahmedia based on client request. The website is a sales management for UMKM or small business. The website is built using Next.js, TypeScript, Tailwind CSS, ShadCN UI, Prisma, and MySQL.",
-        "The website has a few features such as a dashboard for the user to manage their business sales, a statistic page, and a sales report page. User can see their sales performance in a fancy chart to make it easier to understand. The user also can export their sales report to a PDF file which can be printed or saved to their device."
+        "Developed a custom WordPress website focused on functionality, user experience, and SEO optimization. Customized themes and plugins to align with the client’s branding and specific requirements. Integrated essential plugins for SEO, security, and performance optimization to ensure fast load times and improved search engine rankings.",
+        "Built responsive page layouts to deliver a seamless experience across devices, and used custom post types and taxonomies for easier content management. Provided post-launch support, including tutorials for content updates, ensuring a smooth handover for ongoing site management."
       ],
-      "year": "2024",
+      "year": "2023",
       "images": [
-        "/projects/saku-senyum/saku-senyum1.png",
-        "/projects/saku-senyum/saku-senyum2.png",
-        "/projects/saku-senyum/saku-senyum3.png",
-        "/projects/saku-senyum/saku-senyum4.png"
+        "/projects/saku-senyum/Home.png",
+        "/projects/saku-senyum/about.png",
+        "/projects/saku-senyum/service.png"
       ],
       "tech": [
-        "NextJS",
-        "Typescript",
-        "Shadcn UI",
-        "Tailwind CSS",
-        "Prisma",
-        "MySQL"
-      ], 
+        "WoresPress",
+        "Elementor",
+        "Figma UI",
+        "Custom CSS"
+      ],
       "slug": "saku-senyum"
     },
     {
       "title": "LUDOang",
       "desc": [
         "LUDOang is a game that my team and I created for a final project in my university. The game is built python, pygame, and OpenGL. The game is a 2D game that is inspired by a Ludo game. The game has a few features such randomZone, and a 3D dice.",
-        "RandomZone is a feature that allows the player to get a random number of steps. The 3D dice is a feature that allows the player to roll a 3D dice. The game also has a few other features menuy screen and also loading screen.", "Beside that the game also has a audio theme that will play when the game is started. The game also has a few sound effects such as dice roll sound, and a sound when the player win the game."
+        "RandomZone is a feature that allows the player to get a random number of steps. The 3D dice is a feature that allows the player to roll a 3D dice. The game also has a few other features menuy screen and also loading screen.",
+        "Beside that the game also has a audio theme that will play when the game is started. The game also has a few sound effects such as dice roll sound, and a sound when the player win the game."
       ],
       "year": "2023",
       "preview": "https://github.com/Alvalens/ludo-game/releases/tag/pre-release",
@@ -60,11 +52,7 @@
         "/projects/LUDOang/ludo2.png",
         "/projects/LUDOang/ludo3.png"
       ],
-      "tech": [
-        "Python",
-        "Pygame",
-        "OpenGL"
-      ], 
+      "tech": ["Python", "Pygame", "OpenGL"],
       "slug": "ludoang"
     },
     {
@@ -82,13 +70,7 @@
         "/projects/chat/chat3.png",
         "/projects/chat/chat4.png"
       ],
-      "tech": [
-        "JavaScript",
-        "React",
-        "React Router",
-        "Firebase",
-        "Daisy UI"
-      ],
+      "tech": ["JavaScript", "React", "React Router", "Firebase", "Daisy UI"],
       "slug": "react-chat"
     },
     {
@@ -109,32 +91,22 @@
         "/projects/tools/tools2.png",
         "/projects/tools/tools3.png"
       ],
-      "tech": [
-        "Javascript",
-        "React",
-        "React Router",
-        "TailwindCSS"
-      ],
+      "tech": ["Javascript", "React", "React Router", "TailwindCSS"],
       "slug": "react-tools"
     },
     {
       "title": "Aleph Discord Bot",
       "desc": [
-        "Aleph is a Discord bot that I created for my dircord server to use. The bot is built using Python and the discord.py library. The bot has image grabber feauture that takes argument (keywords) and returns an image from the internet.", "Other than that this bot has a few other features such as utility command to delete a messages, and a command to get the server's ping. This bot is still in development and I plan to add more features in the future."],
+        "Aleph is a Discord bot that I created for my dircord server to use. The bot is built using Python and the discord.py library. The bot has image grabber feauture that takes argument (keywords) and returns an image from the internet.",
+        "Other than that this bot has a few other features such as utility command to delete a messages, and a command to get the server's ping. This bot is still in development and I plan to add more features in the future."
+      ],
       "year": "2023",
       "preview": "",
       "code": "https://github.com/Alvalens/aleph-discord-bot",
-      "images": [
-        "/projects/bot/bot1.png",
-        "/projects/bot/bot2.png"
-      ],
-      "tech": [
-        "Python",
-        "Discord.py",
-        "Google Serp API"
-      ],
+      "images": ["/projects/bot/bot1.png", "/projects/bot/bot2.png"],
+      "tech": ["Python", "Discord.py", "Google Serp API"],
       "slug": "aleph-discord-bot"
-    }, 
+    },
     {
       "title": "LPTK Cup 2023 Website",
       "desc": [
@@ -150,20 +122,16 @@
         "/projects/lptk/lptk3.png",
         "/projects/lptk/lptk4.png"
       ],
-      "tech": [
-        "PHP",
-        "Laravel",
-        "Bootstrap",
-        "MySQL",
-        "jQuery",
-        "DataTables"
-      ],
+      "tech": ["PHP", "Laravel", "Bootstrap", "MySQL", "jQuery", "DataTables"],
       "slug": "lptk-cup-2023"
-    }, 
+    },
     {
       "title": "NU INO Website",
       "desc": [
-        "My first freelance project. This project is a website for a School based on a JALAKAR curriculum. The website is built mainly using Laravel and Bootstrap.", "This website is LMS like system, have a user management, user auth, quiz and material for student and FAQ",  "In this project I learned how to work with a team and how to manage a project. I also learned new library such as livewire and alpine.js."],
+        "My first freelance project. This project is a website for a School based on a JALAKAR curriculum. The website is built mainly using Laravel and Bootstrap.",
+        "This website is LMS like system, have a user management, user auth, quiz and material for student and FAQ",
+        "In this project I learned how to work with a team and how to manage a project. I also learned new library such as livewire and alpine.js."
+      ],
       "year": "2023",
       "preview": "",
       "code": "",
