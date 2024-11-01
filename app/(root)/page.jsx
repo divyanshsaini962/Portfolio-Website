@@ -89,11 +89,12 @@ const MyPage = () => {
                       type: "spring",
                     }}
                   >
-                    A junior full-stack developer with a primary focus on web
-                    development. I’m also passionate about UX/UI design, mobile
-                    development, and exploring AI technologies. Always eager to
-                    learn and grow, I’m open to fresh challenges and new
-                    opportunities in tech.
+                    An entry-level full-stack developer specializing in web
+                    development, with a strong interest in UX/UI design, mobile
+                    development, and the exploration of AI technologies. I am
+                    enthusiastic about continuous learning and development,
+                    ready to embrace new challenges, and excited for
+                    opportunities to grow in the tech industry.
                   </motion.p>
                   <motion.div
                     className="buttons flex flex-row justify-center items-center space-x-4 mt-10"

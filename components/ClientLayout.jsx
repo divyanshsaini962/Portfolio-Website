@@ -18,8 +18,8 @@ export default function ClientLayout({ children }) {
             <TopProgressBar />
             <Navbar />
             {children}
-            <Chat />
-            <Analytics />
+            {/* <Chat /> */}
+            <Analytics/>
         </body>
     );
 }
