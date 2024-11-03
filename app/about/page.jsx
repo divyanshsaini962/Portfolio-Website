@@ -16,7 +16,7 @@ import Experience from "./(experience)/experience.jsx";
 import Education from "./(education)/education.jsx";
 
 // images
-import Me1 from "@/public/img/me1.jpg";
+import Me1 from "@/public/img/Me1.png";
 import Me2 from "@/public/img/me2.jpg";
 import Me3 from "@/public/img/me3.jpg";
 import Hr from "@/components/Hr";
@@ -44,7 +44,7 @@ export default function Page() {
 							className="bg-slate-300 rounded-sm h-[400px] md:h-[600px] w-[80vw] md:w-[30vw] grayscale hover:grayscale-0 ">
 							<Image
 								src={Me2}
-								alt="Alvalens"
+								alt="Divyanshu"
 								layout="fill"
 								objectFit="cover"
 								placeholder="blur"
@@ -99,9 +99,9 @@ export default function Page() {
 									className="w-full h-full">
 									<Image
 										src={Me1}
-										alt="Alvalens"
+										alt="Divyanshu"
 										layout="fill"
-										objectFit="cover"
+										// objectFit="cover"
 										placeholder="blur"
 									/>
 								</motion.div>
@@ -122,7 +122,7 @@ export default function Page() {
 									className="w-full h-full">
 									<Image
 										src={Me2}
-										alt="Alvalens"
+										alt="Divyanshu"
 										layout="fill"
 										objectFit="cover"
 										placeholder="blur"
@@ -147,7 +147,7 @@ export default function Page() {
 									className="w-full h-full">
 									<Image
 										src={Me3}
-										alt="Alvalens"
+										alt="Divyanshu"
 										layout="fill"
 										objectFit="cover"
 										placeholder="blur"

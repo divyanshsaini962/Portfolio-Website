@@ -15,94 +15,95 @@ const projects = [
 		preview: "https://www.techblogservice.online/",
 	},
 	{
-		year: "2024",
+		year: "2023",
 		title: "WordPress Website",
 		tech: "WordPress, Figma Ui, Custom Css,",
-	},
-	{
-		year: "2023",
-		title: "LUDOang",
-		tech: "Python, Pygame, OpenGL",
-		github: "https://github.com/Alvalens/ludo-game",
-		preview:
-			"https://github.com/Alvalens/ludo-game/releases/tag/pre-release",
-	},
-	{
-		year: "2023",
-		title: "React Realtime Chat",
-		tech: "Javascript, React Js, Firebase, Daisy UI",
-		github: "https://github.com/Alvalens/react-realtime-chat",
-		preview: "https://react-chat-rouge.vercel.app",
-	},
-	{
-		year: "2023",
-		title: "React Tools",
-		tech: "Javascript, React Js, TailwindCSS",
-		github: "https://github.com/Alvalens/react-tools",
-		preview: "react-tools-flax.vercel.app",
-	},
-	{
-		year: "2023",
-		title: "Aleph Discord Bot",
-		tech: "Python, Serp API, Discord.py",
-		github: "https://github.com/Alvalens/aleph-discord-bot",
-	},
-	{
-		year: "2023",
-		title: "LPTK CUP UM 2023",
-		tech: "PHP, Laravel, Bootstrap, MySQL, jQuery, DataTables",
-		github: "",
-		preview: "",
-	},
-	{
-		year: "2023",
-		title: "NU INO Website",
-		tech: "PHP, Laravel, Livewire Bootstrap, MySQL, jQuery, DataTables",
-		github: "",
-		preview: "",
-	},
-	{
-		year: "2023",
-		title: "Unmuh Jember Landing Page",
-		tech: "HTML, CSS, Javascript",
-		github: "https://github.com/Alvalens/unmuh-jember-landing-page",
-		preview: "https://alvalens.github.io/unmuh-jember-landing-page/",
+		preview: "https://sainistudio.com/",
 	},
 	{
 		year: "2022",
-		title: "Alvalens Website",
-		tech: "Javascript, Next Js, TailwindCSS",
-		github: "https://github.com/Alvalens/Alvalens-porto-1",
-		preview: "https://alvalens.my.id",
+		title: "Frontend Website",
+		tech: "Html, Css, Javascript",
+		github: "https://github.com/divyanshsaini962/sanskarpvcdoor/",
+		preview:
+			"https://divyanshsaini962.github.io/sanskarpvcdoor/",
 	},
-	{
-		year: "2023",
-		title: "Python audio tranlator",
-		tech: "Python, Assembly AI",
-		github: "https://github.com/Alvalens/python-audio-translation",
-		preview: "",
-	},
-	{
-		year: "2023",
-		title: "A4 Education website",
-		tech: "PHP, Laravel, Bootstrap, MySQL, jQuery, DataTables",
-		github: "https://github.com/Alvalens/A4",
-		preview: "",
-	},
-	{
-		year: "2023",
-		title: "Cry Cast crypto forecast",
-		tech: "PHP, Laravel, Bootstrap, MySQL",
-		github: "https://github.com/Alvalens/cry-cast",
-		preview: "",
-	},
-	{
-		year: "2023",
-		title: "Mini Harbor",
-		tech: "Python, Pygame",
-		github: "https://github.com/Alvalens/mini-harbor",
-		preview: "",
-	},
+	 {
+	 	year: "2021",
+	 	title: "React Website",
+	 	tech: "Javascript, React Js, Next Js, Figma UI",
+	 	github: "https://github.com/divyanshsaini962/Saini-studio",
+	 	preview: "https://saini-studio.vercel.app/",
+	 },
+	 {
+	 	year: "2021",
+	 	title: "React Web App",
+	 	tech: "Javascript, React Js, Mongodb, Aws, TailwindCSS",
+	 	github: "https://github.com/divyanshsaini962/Saini-Price-Tracker",
+	 	preview: "https://saini-price-tracker.vercel.app/",
+	 },
+	// {
+	// 	year: "2023",
+	// 	title: "Aleph Discord Bot",
+	// 	tech: "Python, Serp API, Discord.py",
+	// 	github: "https://github.com/Divyanshu/aleph-discord-bot",
+	// },
+	// {
+	// 	year: "2023",
+	// 	title: "LPTK CUP UM 2023",
+	// 	tech: "PHP, Laravel, Bootstrap, MySQL, jQuery, DataTables",
+	// 	github: "",
+	// 	preview: "",
+	// },
+	// {
+	// 	year: "2023",
+	// 	title: "NU INO Website",
+	// 	tech: "PHP, Laravel, Livewire Bootstrap, MySQL, jQuery, DataTables",
+	// 	github: "",
+	// 	preview: "",
+	// },
+	// {
+	// 	year: "2023",
+	// 	title: "Unmuh Jember Landing Page",
+	// 	tech: "HTML, CSS, Javascript",
+	// 	github: "https://github.com/Divyanshu/unmuh-jember-landing-page",
+	// 	preview: "https://Divyanshu.github.io/unmuh-jember-landing-page/",
+	// },
+	// {
+	// 	year: "2022",
+	// 	title: "Divyanshu Website",
+	// 	tech: "Javascript, Next Js, TailwindCSS",
+	// 	github: "https://github.com/Divyanshu/Divyanshu-porto-1",
+	// 	preview: "https://Divyanshu.my.id",
+	// },
+	// {
+	// 	year: "2023",
+	// 	title: "Python audio tranlator",
+	// 	tech: "Python, Assembly AI",
+	// 	github: "https://github.com/Divyanshu/python-audio-translation",
+	// 	preview: "",
+	// },
+	// {
+	// 	year: "2023",
+	// 	title: "A4 Education website",
+	// 	tech: "PHP, Laravel, Bootstrap, MySQL, jQuery, DataTables",
+	// 	github: "https://github.com/Divyanshu/A4",
+	// 	preview: "",
+	// },
+	// {
+	// 	year: "2023",
+	// 	title: "Cry Cast crypto forecast",
+	// 	tech: "PHP, Laravel, Bootstrap, MySQL",
+	// 	github: "https://github.com/Divyanshu/cry-cast",
+	// 	preview: "",
+	// },
+	// {
+	// 	year: "2023",
+	// 	title: "Mini Harbor",
+	// 	tech: "Python, Pygame",
+	// 	github: "https://github.com/Divyanshu/mini-harbor",
+	// 	preview: "",
+	// },
 ];
 export default function Page () {
   return (
@@ -189,7 +190,8 @@ export default function Page () {
 												{project.github && (
 													<a
 														href={project.github}
-														title="Link to GitHub">
+														title="Link to GitHub"
+														target="_blank">
 														<FontAwesomeIcon
 															icon={faGithub}
 															className="text-xl mr-2"
@@ -199,7 +201,9 @@ export default function Page () {
 												{project.preview && (
 													<a
 														href={project.preview}
-														title="Link to project preview">
+														title="Link to project preview"
+														target="_blank"
+														>
 														<FontAwesomeIcon
 															icon={
 																faArrowUpRightFromSquare

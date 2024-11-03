@@ -2,7 +2,7 @@ import Image from "next/image";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faMedal } from "@fortawesome/free-solid-svg-icons";
 
-import Me4 from "@/public/img/me4.jpeg";
+import Me4 from "@/public/img/me3.jpg";
 
 export default function Education() {
 	return (

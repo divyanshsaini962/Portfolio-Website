@@ -4,37 +4,35 @@ import "@fortawesome/fontawesome-svg-core/styles.css";
 import ClientLayout from "../components/ClientLayout";
 
 export const metadata = {
-    title: "Divyanshu | Portofolio",
-    description: "My name is Divyanshu, I'm a web developer and I'm passionate about it. I'm currently studying at Universitas Negeri Malang.",
+    title: "Divyanshu Saini | Portfolio",
+    description: "I'm Divyanshu Saini, a freelance web developer based in Jhansi, passionate about creating impactful web solutions.",
     author: "Divyanshu Saini",
     siteUrl: "https://www.Divyanshu.my.id",
-    applicationName: "Divyanshu",
+    applicationName: "Divyanshu Saini Portfolio",
     keywords: [
         "Divyanshu",
-        "alvalen",
-        "alvalen shafel",
-        "shafel",
         "Divyanshu Saini",
-        "alvalen shafel bilyunazra",
-        "bloodfallen",
-        "alvalen porto",
-        "alvalen um",
+        "freelance web developer",
+        "web development",
+        "Jhansi",
+        "Divyanshu portfolio",
+        "Divyanshu web developer",
     ],
     openGraph: {
         type: "website",
         url: "https://www.Divyanshu.my.id",
-        title: "Divyanshu | Portofolio",
-        site_name: "Divyanshu | Portofolio",
-        description: "My name is Divyanshu, This is my portofolio website.",
+        title: "Divyanshu Saini | Portfolio",
+        site_name: "Divyanshu Saini | Portfolio",
+        description: "I'm Divyanshu Saini, a freelance web developer based in Jhansi. Explore my portfolio to see my latest projects.",
         width: 1200,
         height: 630,
         images: [
             {
                 url: "/og-image-rev.png",
-                alt: "Divyanshu Portofolio",
+                alt: "Divyanshu Saini Portfolio",
             },
         ],
-        site_name: "Divyanshu | Portofolio",
+        site_name: "Divyanshu Saini | Portfolio",
     },
 };
 

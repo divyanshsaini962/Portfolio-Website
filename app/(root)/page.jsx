@@ -7,7 +7,7 @@ import Link from "next/link";
 
 // components
 import Button from "@/components/Button";
-import Me from "../../public/img/me.jpg";
+import Me from "../../public/img/me.png";
 import MeAbout from "@/public/img/me2.jpg";
 import Setup from "@/public/img/setup.jpg";
 import ProjectAll from "@/public/img/projects.jpg";
